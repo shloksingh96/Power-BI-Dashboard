@@ -57,4 +57,6 @@ AtliQ Grands, a luxury hotel chain, has been facing declining market share and r
 ✅ **Improve occupancy%** through targeted marketing campaigns.  
 ✅ **Boost realization%** by reducing dependency on deep discounts.  
 
+
 ---
+![Atliq Hotels Sales Analysis Dashboard (Power BI)](https://github.com/user-attachments/assets/97d642eb-9771-4360-ace2-31a909707c1a)
